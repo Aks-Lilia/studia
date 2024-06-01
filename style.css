@@ -1,0 +1,190 @@
+body {
+    margin: 0;
+}
+
+.nachtext {
+    font-weight: 700;
+    font-size: 70px; 
+    text-align: center;
+}
+.header-line {
+    display: flex;
+    align-items: center;
+}
+.img {
+   text-align: center; 
+}
+.zagolovok {
+    font-size: 45px;
+    text-align: center; 
+    margin-top: 50px;
+    
+    <--transform: translate(0px, 120%);
+    <--opacity: 0;
+    <--transition: all 0.8s ease 0s;
+}
+.header-logo {
+    margin-top: 0px;
+    text-align: left;
+}
+.logom {
+   text-align: right; 
+   margin-top: 0px; 
+}
+.zagolovok1 {
+    font-size: 45px;
+    text-align: center; 
+    margin-top: 50px;
+}
+.osntext {
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;     
+}
+.text1 {
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 25px;
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 25px;
+}
+.pn {
+    font-weight: 700;
+    font-size: 40px; 
+    text-align: center;
+}
+.vrem {
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    margin-top: 25px;
+}
+.vtsr {
+    font-weight: 700;
+    font-size: 40px; 
+    text-align: center;
+    margin-top: 70px;
+}
+.vrem2 {
+    font-size: 30px;
+    text-align: justify;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+.zagolovok {
+    font-weight: 700;
+    font-size: 50px; 
+    text-align: center;
+    margin-bottom: 50px;
+}
+.button {
+    color: #fff;
+    background-color: #FF7400;
+    padding: 14px 18px;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 25px;
+}
+.pas {
+    margin-top: 25px;
+    text-align: center;
+}
+.paspisanie {
+    text-align: center;
+    margin-top: 25px;
+}
+.horeograf {
+    text-align: center;
+}
+.horeografosn {
+    margin-top: 25px;
+    text-align: center;
+}
+.raspisanie-img {
+    margin-top: 50px;
+    text-align: center;
+}
+.ustav {
+    text-align: center;
+    margin-top: 50px;
+}
+.ustav1 {
+    text-align: center;
+    margin-top: 25px;
+}
+.us {
+    align-items: center;
+}
+.zagolovokustava {
+    font-weight: 700;
+    font-size: 30px; 
+    text-align: center;
+    margin-bottom: 20px;
+     margin-top: 25px;
+}
+.osntext1 {
+    font-size: 25px;
+    text-align: justify;
+    margin-right: 150px;
+    margin-left: 150px; 
+}
+.seredina {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+} 
+
+.hor {
+    font-size: 25px;
+    text-align: justify;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+.irina-img {
+     margin-bottom: 30px;
+     text-align: center;
+}
+.osntext2 {
+    font-size: 25px;
+    text-align: justify;
+    margin-right: 150px;
+    margin-left: 150px; 
+    margin-bottom: 10px;
+}
+.osntext3 {
+    font-size: 25px;
+    text-align: justify;
+    margin-right: 150px;
+    margin-left: 150px; 
+    margin-bottom: 50px;
+}
+.seredina1 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 21px;
+    font-weight: 700; 
+    text-decoration: underline;
+}
+.pas1 {
+    margin-top: 25px;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+}
+.endtext {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.end {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+}
